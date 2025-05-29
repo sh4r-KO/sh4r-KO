@@ -1,10 +1,10 @@
 # 👋 Hi, I'm Aguirre — Data Engineer & AI Enthusiast
 
 <span style="display: flex; align-items: left;">
-<a href="https://github.com/taoufiq-ouedraogo" target="blank">
-<img src="https://img.shields.io/github/followers/taoufiq-ouedraogo?style=social" alt="taoufiq-ouedraogo" />
+<a href="https://github.com/sh4r-KO/sh4r-KO" target="blank">
+<img src="https://img.shields.io/github/followers/sh4r-KO?style=social" alt="sh4r-KO" />
 </a>
-<img src="https://komarev.com/ghpvc/?username=taoufiq-ouedraogo&label=Profile%20views&color=0e75b6&style=flat" alt="tao" />
+<img src="https://komarev.com/ghpvc/?username=sh4r-KO&label=Profile%20views&color=0e75b6&style=flat" alt="tao" />
 </span>
 
 ## 💫 About Me
