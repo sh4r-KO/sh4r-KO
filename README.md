@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Carlos Aguirre — Data Engineer & AI Enthusiast
+# 👋 Hi, I'm Aguirre — Data Engineer & AI Enthusiast
 
 [![](https://visitcount.itsvg.in/api?id=sh4r-KO&icon=0&color=0)](https://visitcount.itsvg.in)
 
