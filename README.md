@@ -63,13 +63,3 @@
 ![Raspberry Pi](https://img.shields.io/badge/-Raspberry_Pi-C51A4A?style=for-the-badge&logo=Raspberry-Pi)
 
 ---
-
-## 📊 GitHub Stats
-
-![](https://github-readme-stats.vercel.app/api?username=sh4r-KO&theme=dark&hide_border=true&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=sh4r-KO&theme=dark&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=sh4r-KO&theme=dark&hide_border=true&layout=compact)
-
----
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
