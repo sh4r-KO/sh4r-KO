@@ -1,6 +1,11 @@
 # 👋 Hi, I'm Aguirre — Data Engineer & AI Enthusiast
 
-[![](https://visitcount.itsvg.in/api?id=sh4r-KO&icon=0&color=0)](https://visitcount.itsvg.in)
+<span style="display: flex; align-items: left;">
+<a href="https://github.com/taoufiq-ouedraogo" target="blank">
+<img src="https://img.shields.io/github/followers/taoufiq-ouedraogo?style=social" alt="taoufiq-ouedraogo" />
+</a>
+<img src="https://komarev.com/ghpvc/?username=taoufiq-ouedraogo&label=Profile%20views&color=0e75b6&style=flat" alt="tao" />
+</span>
 
 ## 💫 About Me
 🎓 Recently graduated from an engineering school with a specialization in **Big Data & AI**  
